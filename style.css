@@ -1,0 +1,55 @@
+.page{
+    width: auto;
+    height: 1070px;
+    
+}
+
+.head{
+    width: auto;
+    height: 250px;
+    background-color: purple;
+    text-align: center;
+    font-size: 110px;
+    padding-top: 110px;
+}
+
+.menu{
+    width: auto;
+    height: 50px;
+    background-color: aqua;
+    font-size: 20px;
+    padding-top: 30px;
+    
+}
+
+.body{
+    width: auto;
+    height: 550px;
+    background-color: grey;
+    text-align: center;
+    padding-top: 500px;
+    font-size: 150px;
+}
+
+.foot{
+    width: auto;
+    height: 70px;
+    background-color: purple;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 30px;
+}
+
+.menu a {
+    text-decoration: none;
+    padding: 0.8em ;
+    /* background-color: black; */
+    /* color: antiquewhite; */
+    padding-top: 20px;
+}
+
+.menu a:hover {
+    background-color: blueviolet;
+    color: aqua;
+    
+}
